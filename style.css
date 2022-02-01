@@ -1,0 +1,17 @@
+body{
+    background-color: lightskyblue;
+}
+
+#score{
+font-size: 20px;
+margin-left: 5px;
+}
+
+#time_limit{
+    font-size: 20px;
+    margin-right: 5px;  
+}
+
+#sketch{
+color: rgb(177, 6, 177);
+}
